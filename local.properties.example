@@ -1,0 +1,7 @@
+# Copy these lines into local.properties (Android Studio creates that file and adds sdk.dir).
+# Never commit local.properties.
+ANTHROPIC_API_KEY=sk-ant-your-key-here
+# Optional: send requests through your own server instead of embedding a key (recommended for release builds).
+# ANTHROPIC_BASE_URL=https://your-proxy.example.com
+# Optional: change the model.
+# CLAUDE_MODEL=claude-sonnet-5-5
